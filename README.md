@@ -1,5 +1,6 @@
 # ScanPydia
-_A Network Scanning Tool for Advanced and Offensive Security (NSSECU2)._
+_A Network Scanning Tool for Advanced and Offensive Security (NSSECU2)._\
+Date Accomplished: December 15, 2020
 
 ## Uses
 ScanPydia is able to do ICMP Echo Request and TCP Scans including TCP Connect Scan, TCP SYN (Half-Open) Scan, Xmas Scan, FIN Scan, Null Scan, and Ack Scan. Another feature included in ScanPydia is computing for the total time that the program executed.
