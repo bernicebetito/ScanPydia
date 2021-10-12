@@ -23,13 +23,13 @@ ScanPydia is able to do ICMP Echo Request and TCP Scans including TCP Connect Sc
   * To download in **Linux**: `sudo pip install scapy`
   * To download in **Windows**: `pip install scapy`
 
-## Installation
+## Download
 * To download in Linux:
 ``` sudo curl -O https://raw.githubusercontent.com/bernicebetito/ScanPydia/main/ScanPydia.py ```
 * To download in Windows:
 ``` curl -O https://raw.githubusercontent.com/bernicebetito/ScanPydia/main/ScanPydia.py ```
 
-Once installed, ScanPydia is ready to be used. To see a full list of available commands, go to the file location and run:
+Once downloaded, ScanPydia is ready to be used. To see a full list of available commands, go to the file location and run:
 - For Linux: `sudo python3 ScanPydia.py`
 - For Windows: `python ScanPydia.py`
 
